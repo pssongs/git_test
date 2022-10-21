@@ -1,2 +1,3 @@
 # git_test
-For ODP
+My first Github repo for odin!
+Hello Odin!
